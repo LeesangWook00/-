@@ -30,22 +30,6 @@
 
 ---
 
-## 🛠️ Expertise & Experience
-
-이력서의 기술 등급을 뒷받침하는 실제 학습 내용입니다.
-
----
-
-### **🔹 Infrastructure & Cloud (AWS/Linux)**
-- **AWS Services:** EC2 웹 서버 환경 구축, S3 스토리지 연동 및 보안 그룹(Security Group) 정책 수립 실습
-- **Environment:** 리눅스 터미널 기반의 서버 관리 명령어 숙지 및 네트워크 소켓 통신 개념 이해
-
-### **🔹 Data Engineering & AI (Python/SQL)**
-- **Data Pipeline:** Oracle DB 설계(ERD)부터 복잡한 Join문을 활용한 데이터 추출 및 가공 가능
-- **Machine Learning:** Scikit-learn을 활용한 데이터 전처리 및 분류/회측 모델 구현 (기계학습 1, 2 이수)
-
----
-
 ## 💻 Projects (Technical Highlights)
 
 > 프로젝트의 결과 보고서는 아래 개별 저장소 링크를 통해 확인하실 수 있습니다.
