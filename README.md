@@ -1,28 +1,75 @@
-# 🚀 안녕하세요, 클라우드와 AI의 조화를 꿈꾸는 이상욱입니다.
+# 🚀 [이상욱] | 클라우드 & AI 엔지니어 포트폴리오
 
-안녕하세요! **유한대학교 인공지능 전공** 졸업 예정자인 이상욱입니다.  
-현재 **AWS MSP(Managed Service Provider)** 분야에서 전문가로 성장하기 위해 클라우드 인프라와 데이터 기반 기술을 학습하고 있습니다.
+> **"데이터와 AI를 이해하고, 안정적인 클라우드 인프라를 구축하는 엔지니어"**
 
----
-
-### 🛠️ Tech Stacks
-
-- **Languages:** Python, Java, C/C++, SQL (Oracle)
-- **Cloud:** AWS (EC2, S3, VPC 기초), Cloud Computing Concepts
-- **AI/Data:** Machine Learning, Data Processing, Image Processing
-- **Web:** JSP, HTML, Web App Programming
+안녕하세요! 유한대학교 인공지능 전공 3학년에 재학 중인 이상욱입니다.  
+AI 전공 지식을 바탕으로 데이터 유동성을 이해하며, **AWS MSP(Managed Service Provider)** 분야에서 고객사의 인프라를 안정적으로 운영하고 최적화하는 전문가로 성장하는 것이 목표입니다.
 
 ---
 
-### 📚 Learning & Goals
+## 👨‍💻 About Me
 
-- 🎓 **Information Processing Industrial Engineer** (정보처리산업기사 자격증 준비 중)
-- ☁️ **AWS Certified Solutions Architect** 준비 및 클라우드 아키텍처 실습
-- 🤖 데이터 기반 문제 해결 역량 강화 (Machine Learning & Data Science)
+- **Name:** 이상욱 (Lee Sang-wook)
+- **Education:** 유한대학교 인공지능 전공 (202X ~ 현재 재학 중)
+- **Contact:** [[상욱님의 이메일 주소]] | [[연락처(선택)]]
+- **Certification:** 정보처리산업기사 (필기 합격 / 실기 준비 중) [[<- 현재 상태에 맞게 수정하세요]]
 
 ---
 
-### 📫 Contact
+## 🛠️ Tech Stacks
 
-- **Email:** (상욱님의 이메일 주소를 적어주세요)
-- **Location:** Guro-gu, Seoul, South Korea
+### **Core Skills (MSP 직무 관련)**
+* **Cloud:** AWS (EC2, S3, VPC, IAM 기초 실습 및 아키텍처 이해)
+* **Linux:** 리눅스 기본 명령어 활용 및 서버 환경에 대한 이해
+* **Infrastructure:** 컴퓨터 구조, 네트워크 프로그래밍 교과 이수를 통한 탄탄한 기초 지식
+
+### **Programming & Data**
+* **Languages:** Python (기계학습 및 데이터 분석), Java (자료구조 구현), SQL (Oracle DB 설계 및 쿼리)
+* **AI/Data:** Machine Learning (Scikit-learn 기초), Data Visualization
+
+---
+
+## 📚 Core Competencies (주요 역량)
+
+| 구분 | 상세 내용 | 관련 교과목 |
+| :--- | :--- | :--- |
+| **Cloud Infrastructure** | AWS EC2, S3 등 핵심 서비스 인스턴스 생성 및 보안 그룹 설정 실습 경험 | 클라우드서비스 |
+| **System & Network** | 리눅스 서버 환경 이해 및 네트워크 프로그래밍을 통한 소켓 통신 기초 구현 | 리눅스실습, 네트워크프로그래밍 |
+| **AI & Data Analysis** | Python 기반 머신러닝 라이브러리 활용, 데이터 전처리 및 모델링 기초 프로젝트 수행 | 기계학습(1,2), 파이썬프로그래밍(1,2) |
+| **Database** | 관계형 DB 설계(ERD) 및 복잡한 SQL 쿼리문 작성, 웹 애플리케이션 연동 경험 | 데이터베이스기초/프로그래밍 |
+
+---
+
+## 💻 Projects (주요 프로젝트)
+
+> 각 프로젝트 제목을 클릭하면 상세 내용(README)이 담긴 저장소로 이동합니다.
+
+### 1. [[머신러닝 기반 000 예측 시스템]]
+* **Link:** [[프로젝트 저장소 주소 링크 걸기]]
+* **Description:** Python과 머신러닝 라이브러리를 활용하여 [[데이터셋]]을 분석하고 [[예측/분류]] 모델을 구현한 과제/프로젝트
+* **Key Achievement:** 데이터 전처리 및 [[특정 알고리즘]] 활용 역량 습득
+
+### 2. [[JSP-Oracle DB 연동 000 웹 애플리케이션]]
+* **Link:** [[프로젝트 저장소 주소 링크 걸기]]
+* **Description:** Java/JSP와 Oracle DB를 연동하여 CRUD(생성, 조회, 수정, 삭제) 기능이 구현된 웹사이트 제작
+* **Key Achievement:** DB 설계 및 SQL 활용, 프론트-백엔드 연동 실습
+
+### 3. [[AWS 기반 기초 인프라 구축 실습]]
+* **Link:** [[프로젝트 저장소 주소 링크 걸기 (콘솔 캡처나 아키텍처 다이어그램 위주)]]
+* **Description:** 클라우드서비스 수업을 통해 AWS에서 VPC 환경을 구성하고 EC2 인스턴스를 웹 서버로 띄워보는 실습
+* **Key Achievement:** AWS 핵심 서비스에 대한 실무적인 이해 및 설정 경험
+
+---
+
+## ⭐ Strength (핵심 강점)
+
+1.  **탄탄한 전공 기초:** 인공지능 전공자로서 수학적 사고와 데이터 분석 능력을 갖추고 있어, MSP 직무 수행 시 데이터 유동성을 깊이 있게 이해할 수 있습니다.
+2.  **실무 지향적 학습:** 단순히 수업을 듣는 것에 그치지 않고, 깃허브에 프로젝트를 기록하며 실질적인 구현 역량을 쌓고 있습니다.
+3.  **성장 의지:** 정보처리산업기사 자격증을 준비하며 이론을 다지고, 실제 AWS MSP 직무에 투입될 수 있는 실력을 갖추기 위해 끊임없이 노력합니다.
+
+---
+
+## 📝 Study Logs (학습 기록)
+
+* [[Study-CS-Infoprocessing]]: 정보처리산업기사 필기/실기 공부 내용 정리 저장소 [[<- 이런 공부용 저장소 링크]]
+* [[Python-DataScience-Bootcamp]]: 개인적으로 수강한 외부 강의나 스터디 기록
