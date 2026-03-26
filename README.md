@@ -11,6 +11,8 @@
 
 이력서의 기술 등급을 뒷받침하는 실제 학습 내용입니다.
 
+---
+
 ### **🔹 Infrastructure & Cloud (AWS/Linux)**
 - **AWS Services:** EC2 웹 서버 환경 구축, S3 스토리지 연동 및 보안 그룹(Security Group) 정책 수립 실습
 - **Environment:** 리눅스 터미널 기반의 서버 관리 명령어 숙지 및 네트워크 소켓 통신 개념 이해
